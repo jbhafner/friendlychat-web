@@ -1,7 +1,11 @@
-# Firebase Web Codelab - Final code
+# Firebase Friendly Chat
 
-This folder contains the final code of the [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+This project builds a web chat app using five Firebase components: Realtime Database, Cloud Storage, Authentication, Static Hosting and Cloud Messaging.
 
-You can use this app directly if you'd like to see the finished app but before you do follow the [Create a Firebase Project and Setup](https://codelabs.developers.google.com/codelabs/firebase-web/#3) step of the Codelab instructions
+You can view a working version of the app on Firebase hosting:
+https://friendlychat-9c556.firebaseapp.com/
 
-If you'd like to follow the step by step codelab start with the [web-start](../web-start) directory.
+It is based on the Google Code Labs tutorial:
+https://codelabs.developers.google.com/codelabs/firebase-web/#0
+
+<img src="web/images/screenshot.JPG">
